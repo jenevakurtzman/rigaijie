@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iegeefohwe.zhangjian.io/sitemap.xml
